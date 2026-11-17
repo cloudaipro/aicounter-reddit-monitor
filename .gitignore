@@ -1,0 +1,4 @@
+seen_comments.json
+.env
+__pycache__/
+*.pyc
